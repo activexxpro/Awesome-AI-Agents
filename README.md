@@ -158,6 +158,7 @@ Exploring endless possibilities with open-source agent social simulation.
 
 ### Tools
 
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local payment runtime with stdio MCP tools for x402 offer inspection, bounded payment preparation, status and receipts; Apple Silicon macOS and Node 24 only. ![GitHub Repo stars](https://img.shields.io/github/stars/nuanu-ai/agent-payment-node?style=social)
 - [Oathra](https://github.com/FORIFOR/oathra) - Apache-2.0 TypeScript runtime for phone agents with a standalone evidence-verification engine; anchors result fields to callee utterances and applies deterministic completion rules, with a simulator and adversarial tests. ![GitHub Repo stars](https://img.shields.io/github/stars/FORIFOR/oathra?style=social)
 - [DSH Studio](https://github.com/Moresyl/dsh-studio) - Cross-platform desktop host for installing, running, health-checking, and supervising DeepSeek Harness locally. ![GitHub Repo stars](https://img.shields.io/github/stars/Moresyl/dsh-studio?style=social)
 - [Lians](https://github.com/Lians-ai/Lians) - Local-first memory layer for AI agents with MCP, Python, and TypeScript interfaces; SQLite-backed recall, user-controlled inspection/correction/deletion, and point-in-time memory receipts. ![GitHub Repo stars](https://img.shields.io/github/stars/Lians-ai/Lians?style=social)
